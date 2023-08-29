@@ -1,1 +1,2 @@
-123
+The code is compiled by Visual Studio compiler, the code file does not contain ".sln" project file, before compilation, you need to configure the GLFW, GLM, GLAD, GDAL library, not limited to the version, GLFW and GLAD configuration tutorials see https:// GLFW and GLAD libraries can be found at  learnopengl.com/Getting-started/Creating-a-window.
+After configuring the above libraries, run it in a compiler that can compile C++.
